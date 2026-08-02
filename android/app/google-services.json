@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222750546701",
+    "project_id": "smart-routes-f91a3",
+    "storage_bucket": "smart-routes-f91a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222750546701:android:a3bccc661ca3b335122e44",
+        "android_client_info": {
+          "package_name": "com.smart_routes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaU05XEmIIv4BmWm5q81VrxHo_4yU-wTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

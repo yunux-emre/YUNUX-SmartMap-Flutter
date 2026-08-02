@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBGKTvXqrYZA0bvw5pnWctQ8gDimBcTpbI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1038367007019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartRoutes</string>
+	<key>PROJECT_ID</key>
+	<string>coderfurkan-19119</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coderfurkan-19119.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1038367007019:ios:9a1d9b1b52bb596b22e56e</string>
+</dict>
+</plist>
