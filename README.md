@@ -4,13 +4,15 @@ Yunux RouteMap, şehirler arası seyahat eden sürücüler için geliştirilmiş
 
 ## Ekran Görüntüleri
 
-| Giriş Ekranı | Ana Sayfa | Canlı Harita & Güzergah |
-| :---: | :---: | :---: |
-| <img src="assets/ScreenShoots/1.png" width="230"/> | <img src="assets/ScreenShoots/2.png" width="230"/> | <img src="assets/ScreenShoots/3.png" width="230"/> |
-
-| Canlı Hava Durumu | Yol Olayı Bildirimi | Sürücü Yorumları | Şehir Seçimi |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/ScreenShoots/4.png" width="200"/> | <img src="assets/ScreenShoots/5.png" width="200"/> | <img src="assets/ScreenShoots/6.png" width="200"/> | <img src="assets/ScreenShoots/7.png" width="200"/> |
+<p align="center">
+  <img src="assets/ScreenShoots/1.png" width="200"/>
+  <img src="assets/ScreenShoots/2.png" width="200"/>
+  <img src="assets/ScreenShoots/3.png" width="200"/>
+  <img src="assets/ScreenShoots/4.png" width="200"/>
+  <img src="assets/ScreenShoots/5.png" width="200"/>
+  <img src="assets/ScreenShoots/6.png" width="200"/>
+  <img src="assets/ScreenShoots/7.png" width="200"/>
+</p>
 
 ## Özellikler
 
